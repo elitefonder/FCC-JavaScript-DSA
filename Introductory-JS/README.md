@@ -1,1 +1,1 @@
-
+![](pyramid.png)
