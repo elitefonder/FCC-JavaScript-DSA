@@ -1,1 +1,1 @@
-![](calorie.png)
+![](calorie-counter.png)
